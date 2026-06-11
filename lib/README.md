@@ -35,15 +35,26 @@
 
 ```
 lib/
-├── 📂 basic/
-│   ├── Cybersecurity Essentials
-│   ├── CSEC2017
-│   └── CyBOK
-├── 📂 nist/
-│   ├── NIST CSF 2.0
-│   ├── NIST 800-53
-│   └── ...
-└── 📂 .../
+    ├── 📂 00_basic/
+    │   ├── Cybersecurity Essentials
+    │   ├── Cisco - Introduction to Cybersecurity
+    │   ├── CSEC2017
+    │   ├── Computer Networking Basics
+    │   ├── Operating Systems Fundamentals (Linux + Windows)
+    │   └── CyBOK
+    ├── 📂 01_frameworks/
+    │   ├── NIST CSF 2.0
+    │   ├── NIST 800-53
+    │   ├── NIST SP 800-171
+    │   ├── ISO 27001 Overview
+    │   └── MITRE ATT&CK Framework
+    ├── 📂 02_practical/
+    │   ├── Hacking: The Art of Exploitation
+    │   ├── The Web Application Hacker’s Handbook
+    │   ├── The Hacker Playbook 3
+    │   ├── RTFM + BTFM
+    │   └── Practical Malware Analysis
+    └── 📂 .../
 ```
 
 ---
@@ -53,7 +64,7 @@ lib/
 | Ресурс | Опис |
 |---|---|
 | [HackTheBox](https://hackthebox.com) | Практичні лабораторії |
-| [TryHackMe](https://tryhackme.com) | Навчання через практику |
+| [TryackMe](https://tryhackme.com) | Навчання через практику |
 | [OverTheWire](https://overthewire.org) | Wargames для новачків |
 | [CVE Details](https://cvedetails.com) | База вразливостей |
 | [OWASP](https://owasp.org) | Стандарти безпеки вебзастосунків |
