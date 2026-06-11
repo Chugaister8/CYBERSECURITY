@@ -2,8 +2,6 @@
 
 # CYBERLIB
 
-### 📚 Бібліотека кібербезпеки
-
 ![Status](https://img.shields.io/badge/статус-активно_поповнюється-brightgreen?style=flat-square)
 ![Lang](https://img.shields.io/badge/мова-українська-blue?style=flat-square)
 ![License](https://img.shields.io/badge/ліцензія-MIT-orange?style=flat-square)
@@ -38,21 +36,15 @@
 
 ```
 lib/
-├── 📂 network-security/        # Безпека мереж
-│   ├── basics.md
-│   ├── scanning-recon.md
+├── 📂 basic/
+│   ├── Cybersecurity Essentials
+│   ├── CSEC2017
+│   └── CyBOK
+├── 📂 nist/
+│   ├── NIST CSF 2.0
+│   ├── NIST 800-53
 │   └── ...
-├── 📂 web-security/            # Безпека вебзастосунків
-│   ├── owasp-top10.md
-│   ├── sql-injection.md
-│   └── ...
-├── 📂 osint/                   # Розвідка за відкритими джерелами
-├── 📂 cryptography/            # Криптографія
-├── 📂 malware-analysis/        # Аналіз шкідливого ПЗ
-├── 📂 pentest/                 # Тестування на проникнення
-├── 📂 ctf/                     # CTF — поради та райтапи
-├── 📂 tools/                   # Огляди інструментів
-└── 📂 cheatsheets/             # Шпаргалки
+└── 📂 .../
 ```
 
 ---
