@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/статус-активно_поповнюється-brightgreen?style=flat-square)
 ![Lang](https://img.shields.io/badge/мова-українська-blue?style=flat-square)
 ![License](https://img.shields.io/badge/ліцензія-MIT-orange?style=flat-square)
-![Topics](https://img.shields.io/badge/тем-20+-purple?style=flat-square)
 
 > Структурована колекція матеріалів, посібників та ресурсів для особистого використання.
 
