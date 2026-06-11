@@ -24,10 +24,9 @@
 
 Ця бібліотека — моє зібрання матеріалів для вивчення кібербезпеки. Тут є:
 
-- **Посібники** — покрокові інструкції з конкретних тем
-- **Шпаргалки** — швидкий довідник по командах та техніках
-- **Концепції** — теоретична база для розуміння принципів
-- **Інструменти** — огляди та приклади використання популярних утиліт
+- **Посібники**
+- **Концепції**
+- **Інструменти**
 
 ---
 
@@ -35,25 +34,25 @@
 
 ```
 lib/
-    ├── 📂 00_basic/
+    ├── 📂 00 Basic/
     │   ├── Cybersecurity Essentials
     │   ├── Cisco - Introduction to Cybersecurity
     │   ├── CSEC2017
     │   ├── Computer Networking Basics
     │   ├── Operating Systems Fundamentals (Linux + Windows)
     │   └── CyBOK
-    ├── 📂 01_frameworks/
+    ├── 📂 01 Frameworks/
     │   ├── NIST CSF 2.0
     │   ├── NIST 800-53
     │   ├── NIST SP 800-171
     │   ├── ISO 27001 Overview
     │   └── MITRE ATT&CK Framework
-    ├── 📂 02_practical/
-    │   ├── Hacking: The Art of Exploitation
-    │   ├── The Web Application Hacker’s Handbook
-    │   ├── The Hacker Playbook 3
-    │   ├── RTFM + BTFM
-    │   └── Practical Malware Analysis
+    ├── 📂 02 Risk Management and Governance/
+    ├── 📂 03 Law & Regulation/
+    ├── 📂 04 Human Factors/
+    ├── 📂 05 Privacy & Online Rights/
+    ├── 📂 06 Malware & Attack Technologies/
+    ├── 📂 07 Adversarial Behaviours/
     └── 📂 .../
 ```
 
