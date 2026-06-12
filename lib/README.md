@@ -53,6 +53,7 @@ lib/
     │   ├── ISO 27001 Overview
     │   └── MITRE ATT&CK Framework
     ├── 📂 02 Risk Management and Governance/
+    │   ├── NIST SP 800-37 Rev. 2 — Risk Management Framework (RMF)
     ├── 📂 03 Law & Regulation/
     ├── 📂 04 Human Factors/
     ├── 📂 05 Privacy & Online Rights/
