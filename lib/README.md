@@ -40,7 +40,11 @@ lib/
     │   ├── Cybersecurity Curricula 2017 (CSEC2017)
     │   ├── Computer Networking: A Top-Down Approach
     │   ├── Networking All-in-One For Dummies
-    │   ├── Operating Systems Fundamentals (Linux + Windows)
+    │   ├── Operating Systems: Three Easy Pieces
+    │   ├── Operating System Concepts (Dinosaur Book)
+    │   ├── The Linux Command Line
+    │   ├── How Linux Works: What Every Superuser Should Know
+    │   ├── Windows Operating System Fundamentals
     │   └── CyBOK
     ├── 📂 01 Frameworks/
     │   ├── NIST CSF 2.0
