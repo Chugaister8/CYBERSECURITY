@@ -37,7 +37,7 @@ lib/
     ├── 📂 00 Basic/
     │   ├── Cybersecurity Essentials
     │   ├── Cisco - Introduction to Cybersecurity
-    │   ├── CSEC2017
+    │   ├── Cybersecurity Curricula 2017 (CSEC2017)
     │   ├── Computer Networking Basics
     │   ├── Operating Systems Fundamentals (Linux + Windows)
     │   └── CyBOK
