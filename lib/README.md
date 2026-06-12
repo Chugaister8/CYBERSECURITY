@@ -38,7 +38,8 @@ lib/
     │   ├── Cybersecurity Essentials
     │   ├── Cisco - Introduction to Cybersecurity
     │   ├── Cybersecurity Curricula 2017 (CSEC2017)
-    │   ├── Computer Networking Basics
+    │   ├── Computer Networking: A Top-Down Approach
+    │   ├── Networking All-in-One For Dummies
     │   ├── Operating Systems Fundamentals (Linux + Windows)
     │   └── CyBOK
     ├── 📂 01 Frameworks/
